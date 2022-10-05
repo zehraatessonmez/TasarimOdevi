@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">House Rental</string>
+
+    <string name="details">Details</string>
+    <string name="houseName">Nomaden Omah Sekut</string>
+    <string name="adress">California/Los Angeles</string>
+    <string name="fiyat">150$ / Month</string>
+    <string name="overviewButton">Overvıew</string>
+    <string name="reviewButton">Revıew</string>
+    <string name="bathroom">Bathroom</string>
+    <string name="bedroom">Bedroom</string>
+    <string name="squareMeter">Square m2</string>
+    <string name="ownerName">Jessica Vince</string>
+    <string name="owner">Owner</string>
+
+
+</resources>

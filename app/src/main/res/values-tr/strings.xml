@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">House Rental</string>
+
+    <string name="details">Detaylar</string>
+    <string name="houseName">Nomaden Omah Sekut</string>
+    <string name="adress">California/Los Angeles</string>
+    <string name="fiyat">2700₺ / Ay</string>
+    <string name="overviewButton">Genel Bakış</string>
+    <string name="reviewButton">Detayları İncele</string>
+    <string name="bathroom">Banyo</string>
+    <string name="bedroom">Yatak Odası</string>
+    <string name="squareMeter">Metrakare</string>
+    <string name="ownerName">Jessica Vince</string>
+    <string name="owner">Sahip</string>
+
+
+</resources>
